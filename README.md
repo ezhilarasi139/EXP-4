@@ -1,5 +1,6 @@
 # EXP-4  HALFWAVE  AND FULL WAVE  RECTIFIERS
-
+### NAME : EZHILARASI N
+### REG NO : 212224040088
 ## AIM:
 To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
